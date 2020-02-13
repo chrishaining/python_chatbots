@@ -1,6 +1,6 @@
 # Define the functions
 def coffee_bot():
-  print("Welcome to the cafe!")
+  print("Welcome to the coffee shop!")
   size = get_size()
   drink_type = get_drink_type()
   print("Alright, that's a {size} {drink_type}".format(size=size, drink_type=drink_type))
