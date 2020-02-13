@@ -6,7 +6,7 @@ This is a collection of programs that get user input and respond to the user bas
 
 ## Setup
 * Python 3
-* __random__ package
+* The __random__ library
 
 ---
 
