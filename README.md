@@ -1,6 +1,12 @@
 ## Python Chatbots 
 
-This is a collection of programs that get user input and respond to the user based on that input. 
+This is a collection of programs that get user input and respond to the user based on that input. Incidentally, one of the main learning points for me was the use of recursion.
+
+---
+
+## Setup
+* Python 3
+* __random__ package
 
 ---
 
@@ -13,5 +19,11 @@ Ideas for extensions:
 * have a loyalty card - could the app remember multiple visits by the same person?
 * change the print statement so that it's more like Starbucks. Maybe have a timer that waits until your coffee is ready - (indicated on screen by " . . . " or "waiting..." - then says "That's a large skinny latte for Chris".
 
-
 ---
+
+__ai.py__
+This is a chatbot that has a short conversation with the user. The format of the conversation is:
+1. Chatbot introduces itself and asks the user's name.
+2. Chatbot asks the user how they are feeling.
+3. The chatbot responds to the user, then asks a further question. If the user gave a positive response for step 2, the question is a random question. If the user gave a negative response, the chatbot asks what is wrong.
+4. The chatbot gives a random response to the user's response. 
