@@ -10,7 +10,7 @@ This is a collection of programs that get user input and respond to the user bas
 
 ---
 
-__coffee_shop.py__ and __cofee_shop2.py__ are adapted from a [Codecademy](https://www.codecademy.com) lesson. It runs on the command line. The user is asked a series of free-text and multiple-choice questions, in order to process a coffee order.
+__coffee_shop.py__ and __coffee_shop2.py__ are adapted from a [Codecademy](https://www.codecademy.com) lesson. It runs on the command line. The user is asked a series of free-text and multiple-choice questions, in order to process a coffee order.
 
 Ideas for extensions:
 * have milk questions for every type of drink.
