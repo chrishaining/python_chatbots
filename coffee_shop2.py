@@ -7,7 +7,6 @@ def coffee_bot():
   while order_drink == 'y':
     size = get_size()  
     drink_type = get_drink_type()
-
     drink = '{} {}'.format(size, drink_type)
     print('Alright, that\'s a {}!'.format(drink))
     drinks.append(drink)
