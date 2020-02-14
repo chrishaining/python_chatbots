@@ -30,6 +30,6 @@ __ai.py__  is a chatbot that has a short conversation with the user. The format 
 
 __rule_based_bot__ uses regular expressions identify key words and give an appropriate response. This chatbot is __closed domain__, as the bot can only deal with a small set of topics related to payments. 
 
--- 
+---
 
 __alien_chatbot.py__ another example of a rule-based chatbot.
