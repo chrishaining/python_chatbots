@@ -25,3 +25,7 @@ __ai.py__  is a chatbot that has a short conversation with the user. The format 
 2. Chatbot asks the user how they are feeling.
 3. The chatbot responds to the user, then asks a further question. If the user gave a positive response for step 2, the question is a random question. If the user gave a negative response, the chatbot asks what is wrong.
 4. The chatbot gives a random response to the user's response. 
+
+---
+
+__rule_based_bot__ uses regular expressions identify key words and give an appropriate response. This chatbot is __closed domain__, as the bot can only deal with a small set of topics related to payments. 
