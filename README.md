@@ -32,4 +32,8 @@ __rule_based_bot__ uses regular expressions identify key words and give an appro
 
 ---
 
-__alien_chatbot.py__ another example of a rule-based chatbot.
+__alien_chatbot.py__ is another example of a rule-based chatbot.
+
+---
+
+__decision_bot.py__ helps the user to make a decision. First, the bot asks the user to input the options. The user can add as many options as they like. Once the user has told the bot all the options, the bot randomly selects one of the options. 
